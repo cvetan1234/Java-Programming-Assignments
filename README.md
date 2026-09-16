@@ -6,6 +6,8 @@ This repository contains four Java programming assignments covering game develop
 
 The assignments progress from a basic Tic-Tac-Toe implementation to a GUI-based version, followed by two multithreaded prime-number applications.
 
+This project was originally developed as part of the **Programming for AI 3 (Java)** module at Ostbayerische Technische Hochschule Amberg-Weiden (OTH Amberg-Weiden).
+
 ## Assignments
 
 ### Task 1 – Tic-Tac-Toe
