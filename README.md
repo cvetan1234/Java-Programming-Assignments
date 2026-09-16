@@ -155,19 +155,6 @@ Depending on the assignment, these cover game-board behavior, Tic-Tac-Toe AI beh
 - Unit testing
 - IntelliJ IDEA
 
-## Repository Cleanup
-
-For a clean GitHub repository, generated IntelliJ and compiled output files do not need to be committed. Typical exclusions include:
-
-```gitignore
-.idea/
-out/
-*.iml
-*.class
-```
-
-The source code under `src/` and required data files such as `savednumbers.txt` should be retained.
-
 ## Author
 
 **Tsvetan Stanchev**  
